@@ -1,0 +1,44 @@
+# MAMP PRO 6 est sorti le 27 octobre 2020
+
+Nouveautés
+- new Standard View : versus Expert View ( all available settings ).
+- Blueprints : Develop complex websites or WordPress themes once and use them as a blueprint for as many sites as you want. 
+- Mailhog - email testing, zero configuration. Nobody cares for complicated mail server configurations just for testing. MAMP PRO 6 includes the popular Mailhog.
+- Cloning : we did teach MAMP PRO the art of cloning. It's the most comfortable way to experiment with different versions of a website or a WordPress theme.
+- Improved WordPress support: The vastly improved WordPress support allows you to publish and import your sites faster and more reliably than ever. MAMP PRO even keeps your WordPress installation intact when you change the settings (name, port, SSL) of a host.
+- WordPress site migration : our WordPress migration easily move your site to a new provider. Of course, this works without disclosing any of your passwords.
+- Apache 2.4
+- Completely revamped Editor ( based on msft Monaco )
+- Improved SSL handling
+- support for renaming hosts (even WordPress hosts), a vatsly improved Expert View, addition of OneDrive to cloud providers, advanced snapshot handling, simplified host creation dialog, save and share remote host settings and so much more.
+- Snapshots
+- Mobile Testing : Testing your projects on mobile devices on your local network has never been easier - thanks to the MAMP Viewer App for iOS. It is available for free on the App Store. With our local name server NAMO, you can even test NAMO without an app on any end device in the LAN. We also offer MAMP PRO & NAMO together in an attractive bundle.
+- MAMP Cloud With the Cloud feature it is possible to copy all, or individual hosts to your Dropbox or OneDrive. The root directory of the host and its databases are backed up. Now you can work on your projects on different computers without any problems. You can also use the cloud feature to back up individual or all hosts. Unlike the free MAMP, the cloud function is already included in MAMP PRO.
+
+
+Update MampPro 5 : 29,50€ via paddle.net
+Update MampPro 6 : 34 € via paddle.net
+
+
+
+### MAMP VIEWER via app store
+
+
+### NAMO DNS app : 
+19€
+
+Propos
+
+Helps you run a local DNS server on your Mac. The simple user interface makes it possible for anyone to install and set up a name server under macOS within a few minutes.
+
+- Testing websites on the local network with fixed domain names instead of changing IP addresses (?) : NAMO is ideal for simplified testing on mobile devices.
+
+- Comfortable hosting of server based applications in the LAN. 
+Provide easy access to your company's internal services like wikis, CRMs, image databases, calendars, bug trackers, etc.
+
+Pourquoi c'est plus que MampPro ? "For users of MAMP PRO, NAMO even automatically resolves any selected virtual host. But NAMO is also the perfect partner for users of our free MAMP software for an optimized workflow in local testing."
+
+DOCUMENTATION : https://documentation.mamp.info/NAMO/en/Mac/
+
+
+
